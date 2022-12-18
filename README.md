@@ -1,2 +1,2 @@
-# Challenges
- My resoled challenges.
+#My resolved challenges.
+from HackerRank / Codewars / Leetcode
