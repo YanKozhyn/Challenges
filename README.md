@@ -1,2 +1,2 @@
-<h1>My resolved challenges.<h1>
+<h1>My resolved challenges.</h1>
 from HackerRank / Codewars / Leetcode
